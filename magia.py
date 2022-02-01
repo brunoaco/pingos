@@ -8,6 +8,9 @@ from limpia_chars import limpia_chars
 
 #file_name = "C:\\Users\\\Deyanira\\Downloads\\comprasoctubre2017-alt.txt"
 file_name = "C:\\Users\\\Deyanira\\Downloads\\ventasmarzo2018-alt.txt"
+file_name = "C:\\Users\\RVK-02\\Downloads\\ventasseptiembre2021-alt.txt"
+#file_name = "C:\\Users\\acobar\\Google Drive\\LOS PINGOS-PROANIMAL-JAVIER JEREZ\\IVA 08 2018\\LOS PINGOS\\VENTAS 08 2018.txt"
+#file_name = "C:\\Users\\acobar\\Google Drive\\LOS PINGOS-PROANIMAL-JAVIER JEREZ\\IVA 09 2018\\LOS PINGOS (OJO revisar para IVA)\\VENTAS 09 2018.txt"
 
 diccionario_file = "diccionario.txt"
 
